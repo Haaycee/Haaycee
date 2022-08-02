@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bernuz Thibault</h1>
 <h3 align="center">A passionate developer at epitech Montpellier.</h3>
 
-- 🔭 I’m currently working on **2D video game with Unity**
+- 🔭 I’m currently working on **An E-commerce Website**
 
-- 🌱 I’m currently learning **C, C# and Python languages**
+- 🌱 I’m currently learning **C, C++, C# and JS languages**
 
 - 💬 Ask me about **whatever you want !**
 
-- 📫 How to reach me **bernuzthibault@gmail.com**
+- 📫 How to reach me **thibaultbernuz1@gmail.com** or **thibault.bernuz@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

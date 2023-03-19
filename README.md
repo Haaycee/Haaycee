@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **{EPITECH}**
 
-- 🌱 I’m currently learning **C, C++, C# and JS languages**
+- 🌱 I’m currently learning **C++, C# and JS languages**
 
 - 💬 Ask me about **whatever you want !**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernuz Thibault</h1>
 <h3 align="center">A passionate developer at epitech Montpellier.</h3>
 
-- 🔭 I’m currently working on **An E-commerce Website**
+- 🔭 I’m currently working on **{EPITECH}**
 
 - 🌱 I’m currently learning **C, C++, C# and JS languages**
 

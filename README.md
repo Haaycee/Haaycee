@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bernuz Thibault</h1>
 <h3 align="center">A passionate developer at epitech Montpellier. I love to make cool stuff that why i've chose front-end</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haaycee" alt="haaycee" /></a> </p>
-
 - 🔭 I’m currently working on **A lot a cool stuff**
 
 - 🌱 I’m currently learning **Frameworks like Svelte, Next.js, and Angular**
@@ -11,7 +9,7 @@
 
 - 💬 Ask me about **whatever you want !**
 
-- 📫 How to reach me **thibaultbernuz1@gmail.com or thibault.bernuz@epitech.eu**
+- 📫 How to reach me **thibaultbernuz1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
